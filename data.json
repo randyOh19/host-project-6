@@ -1,0 +1,59 @@
+{
+ "projects": [ 
+        {
+            "id": 0,
+            "project_name": "Random Quote Generator",
+            "description": "Using my knowledge of basic JavaScript syntax, variables, loops, conditionals and object literals to a random quote generator",
+            "technologies": ["Javascript", "CSS", "HTML"],
+            "live_link": "Live link goes here",
+            "github_link": "https://github.com/DominicBishop/Treehouse-Random_code_generator",
+            "image_urls": ["/static/images/Screenshot1.jpg"]
+        },
+        {
+            "id": 1,
+            "project_name": "List pagination",
+            "description": "Use a common web development technique known as pagination to enhance the usability of a web page.",
+            "technologies": ["Javascript", "CSS", "HTML"],
+            "live_link": "Live link goes here",
+            "github_link": "https://github.com/DominicBishop/Project-2",
+            "image_urls": ["/static/images/Screenshot2.jpg"]
+        },
+        {
+            "id": 2,
+            "project_name": "Form validation",
+            "description": "Adding customized and conditional behavior and interactivity validating user input and providing helpful error messages when the user enters invalid information into the form fields..",
+            "technologies": ["Javascript", "CSS", "HTML"],
+            "live_link": "Live link goes here",
+            "github_link": "https://github.com/DominicBishop/Treehouse-project-3",
+            "image_urls": ["/static/images/Screenshot3.jpg"]
+        },
+        {
+            "id": 3,
+            "project_name": "OOP Game Show App",
+            "description": " Using JavaScript and OOP (Object-Oriented Programming) to select a random, hidden phrase, which a player tries to guess, by clicking letters on an onscreen keyboard.",
+            "technologies": ["Javascript", "CSS", "HTML"],
+            "live_link": "Live link goes here",
+            "github_link": "https://github.com/DominicBishop/Treehouse-project-4",
+            "image_urls": ["/static/images/Screenshot4.jpg"]
+        },
+        {
+            "id": 4,
+            "project_name": "Public API Requests",
+            "description": "Requesting data on tweleve random employees using API request too create a employee card and modal when clickecd.",
+            "technologies": ["Javascript", "CSS", "HTML"],
+            "live_link": "Live link goes here",
+            "github_link": "https://github.com/DominicBishop/Treehouse-Project-5",
+            "image_urls": ["/static/images/Screenshot5.jpg"]
+        },
+        {
+            "id": 5,
+            "project_name": "Static Node.js and Express Site",
+            "description": "First attempt at using Node.js and express to create a mock portfoilo site.",
+            "technologies": ["Javascript", "CSS", "HTML", "Node.js", "Express", "PUG"],
+            "live_link": "Live link goes here",
+            "github_link": "https://github.com/DominicBishop/First-express-and-node-app",
+            "image_urls": ["/static/images/Screenshot6.jpg"]
+        }
+
+    ]
+}

@@ -1,0 +1,15 @@
+extends layout.pug
+
+block content
+    nav.grid-container.portfolio-breadcrumb
+        
+            center
+                br
+                h1 Oh no! Something went wrong!
+                br
+                a(href='/') Return to main page
+                br
+                br
+                h2= error.status
+                br
+                p1= error.stack
