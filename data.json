@@ -51,7 +51,7 @@
             "description": "First attempt at using Node.js and express to create a mock portfoilo site.",
             "technologies": ["Javascript", "CSS", "HTML", "Node.js", "Express", "PUG"],
             "live_link": "Live link goes here",
-            "github_link": "https://github.com/DominicBishop/First-express-and-node-app",
+            "github_link": "https://randybeans448.github.io/Project-5-Public-API-Requests/",
             "image_urls": ["/static/images/Screenshot6.jpg"]
         }
 
